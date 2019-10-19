@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "websocket" : "1.0.6",
-    "mongodb" : "1.1.0-beta",
+    "mongodb" : "3.1.13",
     "express" : "2.5.10",
     "connect": "2.3.4",
     "ejs" : "0.6.1",
