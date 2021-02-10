@@ -15,7 +15,7 @@
     "mongodb" : "1.1.0-beta",
     "express" : "2.5.10",
     "connect": "2.3.4",
-    "ejs" : "0.6.1",
+    "ejs" : "3.1.6",
     "async" : "0.1.18"
   },
   "devDependencies": {},
