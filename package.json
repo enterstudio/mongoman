@@ -14,7 +14,7 @@
     "websocket" : "1.0.6",
     "mongodb" : "1.1.0-beta",
     "express" : "2.5.10",
-    "connect": "2.3.4",
+    "connect": "2.3.7",
     "ejs" : "0.6.1",
     "async" : "0.1.18"
   },
